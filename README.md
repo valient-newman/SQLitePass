@@ -32,7 +32,7 @@ Prepared by Valient Newman.
 
 My Github Repository <https://github.com/valient-newman>
 
-This addition gives the support for Rad Studio Delphi 2007 to SqlitePass and quite possible to Delphi 2005, 2006.
+This addition gives the SqlitePass support for Rad Studio Delphi 2007 and quite possible to Delphi 2005, 2006.
 
 Packages for Delphi 2007 would probably work in Delphi 2005, 2006.
 
